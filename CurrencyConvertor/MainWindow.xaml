@@ -78,7 +78,7 @@
                 </StackPanel>
             </Grid>
         </TabItem>
-        <TabItem Name="tbMaster" Header="Currency Master">
+        <!--<TabItem Name="tbMaster" Header="Currency Master">
             <Grid Margin="0,0,-6,48">
                 <Grid.RowDefinitions>
                     <RowDefinition Height="60"></RowDefinition>
@@ -162,7 +162,7 @@
                     <Image Height="150" Width="150" Source="Images\Logo.png" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="325 0"/>
                 </StackPanel>
             </Grid>
-        </TabItem>
+        </TabItem>-->
     </TabControl>
 
 
